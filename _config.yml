@@ -1,2 +1,14 @@
-disqus:
-  shortname: gulsahkadioglu
+title: Gulsah Kadioglu
+email: gulsah-kadioglu@hotmail.com
+description: >-
+  Master's Student at Gazi University.
+footer_txt: >-
+  This website was created using Jekyll and Github Pages.
+baseurl: ""
+url: ""
+linkedin_username: gulsahkadioglu
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
