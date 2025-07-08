@@ -4,7 +4,7 @@ layout: home
 
 <div class="split left">
     <div>
-    <img id="pp" src="https://"/>
+    <img id="pp" src="https://github.com/user-attachments/assets/6481d569-e781-4ce1-9bc4-28088bb5e566"/>
     </div>
 </div>
 <div class="split right">
