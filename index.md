@@ -8,7 +8,7 @@ layout: home
     </div>
 </div>
 <div class="split right">
-    <p>Hi there! I'm Gulsah, a master's student in data science at <a href="https://gazi.edu.tr/">Gazi University</a>, Ankara.
+    <p>Hi there! I'm Gulsah, a Master's student in Data science at <a href="https://gazi.edu.tr/">Gazi University</a>, Ankara, Turkiye.
     <p>My undergraduate is from <a href="https://ogu.edu.tr/">Osmangazi University</a>, Electrical and Electronics Engineering.</p>
     <hr class="hr_style">
     <p>
